@@ -1,4 +1,4 @@
-# Node Immeresives
+ # Node Immersives
 
 Welcome to making your first terminal app!
 
@@ -16,7 +16,7 @@ Welcome to making your first terminal app!
 
 1. Say hi to the user in whatever style you want, with their full name. Remember that you'll have to combine the two arguments to make the full name!
 2. Give them their name capitalized, preferably with some kind of sentence around it telling them what you're doing.
-3. Print out their intiials. (Again, telling them what you're doing!).
+3. Print out their initials. (Again, telling them what you're doing!).
 4. Give them their codeimmersives.com email address. For example, given `Colin Jaffe`, you should print out for them `colin.jaffe@codeimmersives.com`.
 
 
