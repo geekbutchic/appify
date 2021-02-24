@@ -16,4 +16,3 @@ console.log("Here are your initials -> " + firstName[0] + '.' + lastName[lastNam
 
 console.log("Your email address is -> " + firstName.toLowerCase() + "." + lastName.toLowerCase() + "@codeimmersives.com");
 
-
